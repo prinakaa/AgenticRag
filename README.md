@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Enterprise Agentic RAG (Scalable Pipeline)
 
 A production-grade, cyclic RAG system built with **LangGraph**, **Google Cloud Platform (GCP)**, and **Groq**. This system distinguishes between technical "True Data" and random "Noisy Data" using semantic re-ranking and history-aware planning.
@@ -93,3 +94,6 @@ All detailed guides are located in the [DOCS/](DOCS/) folder:
 
 ---
 *Built for High-Scale Enterprise Document Intelligence.*
+=======
+# AgenticRag
+>>>>>>> c35bedb1df6dd376eee4639299bd5f7f04fd38c4
